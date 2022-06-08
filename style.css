@@ -1,0 +1,39 @@
+body{
+    background-color: #BCF8EC;
+    font-family: 'Gill Sans', sans-serif;
+    color: #4F2B3A;
+}
+
+h1{
+    text-decoration: overline underline;
+}
+
+a{
+    text-decoration: underline ;
+    color: #4F2B3A;
+}
+
+ul{
+   line-height: 40px;
+}
+
+.descricao{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.destaque{
+    font-size: 18px;  
+    text-decoration: underline;  
+}
+
+.inprogress{
+    font-style: italic;
+    text-decoration:line-through;
+
+}
+
+.title{
+    font-style: italic;
+    font-weight: bold;
+}
+
