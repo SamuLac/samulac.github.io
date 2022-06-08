@@ -1,15 +1,11 @@
 body{
-    background-color: #BCF8EC;
+    background-color: white;
     font-family: 'Gill Sans', sans-serif;
     color: #4F2B3A;
 }
 
-h1{
-    text-decoration: overline underline;
-}
-
 a{
-    text-decoration: underline ;
+    text-decoration: none ;
     color: #4F2B3A;
 }
 
@@ -33,7 +29,7 @@ ul{
 }
 
 .title{
-    font-style: italic;
     font-weight: bold;
+    color: 	#00FF7F;
 }
 
