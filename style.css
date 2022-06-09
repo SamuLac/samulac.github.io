@@ -2,12 +2,31 @@ body{
     background-color: whitesmoke;
     font-family: 'Gill Sans', sans-serif;
     color: #4F2B3A;
-    text-align: center;
 }
 
 a{
     text-decoration: none ;
     color: #4F2B3A;
+}
+
+.me{
+    /*border: 3px solid red;*/
+    height: 400px;
+}
+.me img{
+    float: left;
+}
+
+.me #nome{
+    text-align: center;
+}
+
+.metext{
+   /* border: 3px solid blue;*/
+    width: 80%;
+    height: 76%;
+    text-align: center;
+
 }
 
 .skills{
@@ -25,12 +44,15 @@ a{
 }
 
 .inprogress{
+    line-height: 40px;
+    font-size: 18px;
     font-style: italic;
     text-decoration:line-through;
 
 }
 
 .title{
+    clear:left;
     font-weight: bold;
     color: 	#00FF7F;
     font-size: 22px;
@@ -56,7 +78,11 @@ a{
     height: 300px;
 }
 
-#nome{
+#nome{ 
     font-size: 36px;
     text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+#indice{
+    font-size: 32px;
 }
